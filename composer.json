@@ -1,0 +1,16 @@
+{
+    "name": "supercica/php_di",
+    "authors": [
+        {
+            "name": "jelena popovic"
+        }
+    ],
+    "require": {
+        "php-di/php-di": "^6.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Main\\": "src/"
+        }
+    }
+}
